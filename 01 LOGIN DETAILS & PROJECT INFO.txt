@@ -1,0 +1,14 @@
+**Database Name: house_rental**
+
+
+
+**Owner's Login** 
+
+Email:	  admin@admin.com
+Password: password
+
+
+**Tenant Login**
+
+Email:	  spellfrancis@gmail.com
+Password: password
